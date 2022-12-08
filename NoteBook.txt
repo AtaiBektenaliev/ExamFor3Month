@@ -1,0 +1,6 @@
+Note{header = 'Backend program' text = Java data = 2022-12-08 Type of note = IDEAS}
+Note{header = 'денег' text = Должен data = 2022-12-08 Type of note = DUTY}
+Note{header = 'Backend program' text = Python data = 2022-12-08 Type of note = IDEAS}
+Contacts{phoneNum='07844877', contactName='Sasha', typeOfNumber=MOBilE text = что то data = 2022-12-08 type of note = IDEAS}
+Contacts{phoneNum='05696484', contactName='Pasha', typeOfNumber=MOBilE text = Как дела? data = 2022-12-08 type of note = IDEAS}
+Contacts{phoneNum='104', contactName='Sasha', typeOfNumber=URBAN text = Нужна помощь data = 2022-12-08 type of note = IDEAS}
